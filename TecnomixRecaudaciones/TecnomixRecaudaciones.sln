@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recaudaciones.Aplicacion", "Recaudaciones.Aplicacion", "{AE5AD6AF-942D-47BD-9D6D-33E6A117FD53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recaudaciones.Dominio", "Recaudaciones.Dominio", "{34D00899-D16A-4B73-9B32-5432B99D7CC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recaudaciones.Infra.Data", "Recaudaciones.Infra.Data", "{B7C42C7D-21F7-4163-AB1D-33644D9EA1B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recaudaciones.Infra.IoC", "Recaudaciones.Infra.IoC", "{50C0A78B-B6D1-4CDD-940E-547A28D2A28A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recaudaciones.UI.Mvc", "Recaudaciones.UI.Mvc", "{2423B90C-9F68-40F5-BC53-711E9E41DB75}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
